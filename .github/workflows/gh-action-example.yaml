@@ -5,7 +5,7 @@ on:
     branches:
     - main
     paths:
-    - 'files'
+    - 'gcp-actions-example'
 
 jobs:
   sync_bucket:
